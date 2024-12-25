@@ -1,6 +1,4 @@
 import LeanPlusPlus.Basic
-import Lean.Meta.Tactic.Grind
-open Lean
 -- This module serves as the root of the `LeanPlusPlus` library.
 -- Import modules here that should be built as part of the library.
 
