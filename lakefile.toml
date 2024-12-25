@@ -1,0 +1,11 @@
+name = "LeanPlusPlus"
+authors = ["Alok Singh <alokbeniwal@gmail.com>"]
+version = "0.1.0"
+defaultTargets = ["leanplusplus"]
+
+[[lean_lib]]
+name = "LeanPlusPlus"
+
+[[lean_exe]]
+name = "leanplusplus"
+root = "Main"
